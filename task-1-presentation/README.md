@@ -1,7 +1,7 @@
 # 📌 Task 1: Digital Literacy Infographic
 
 ## 📌 Description
-In this task, I created a one-page infographic to spread awareness about digital literacy among students. The infographic explains key concepts in a simple and visually appealing way.
+In this task, I created a one-page infographic to spread awareness about digital literacy among students. The infographic presents key concepts in a simple and visually appealing format.
 
 ## 🎯 Topics Covered
 - What is Digital Literacy
@@ -17,4 +17,4 @@ In this task, I created a one-page infographic to spread awareness about digital
 - infographic.png
 
 ## 📊 Learning Outcome
-This task helped me understand how to present information visually and improved my design and communication skills.
+This task helped me improve my ability to present information visually and enhanced my design and communication skills.
