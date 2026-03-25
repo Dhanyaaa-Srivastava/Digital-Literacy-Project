@@ -4,17 +4,17 @@
 In this task, I created my digital portfolio using GitHub to showcase all the tasks and projects completed during the Digital Literacy course.
 
 ## 🎯 Topics Covered
-- Introduction to GitHub
+- Introduction to GitHub, LinkedIn and Kaggle
+- Portfolio creation
 - Repository creation
 - Organizing project files
 - Writing README.md files
 - Showcasing work professionally
 
 ## 🛠️ Tool Used
-- GitHub
-
-## 📂 Output
-- GitHub Portfolio Repository
+- GitHub (for coding projects and portfolio)
+- LinkedIn (for professional profile and networking)
+- Kaggle (for data science learning)
 
 ## 📊 Learning Outcome
 This task helped me understand how to build and manage a professional digital portfolio and present my work effectively online.
