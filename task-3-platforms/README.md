@@ -13,6 +13,9 @@ In this task, I practiced coding on an online platform and created a Digital Lit
 - HackerRank / CodeChef
 - Google Forms
 
+## 🔗 Link for the Google Form - Digital Awareness Quiz
+- https://docs.google.com/forms/d/e/1FAIpQLSd_Am9HkaKlAXIgZxDTHLvSdkE5-1fDSFgzN9ygNjNr4gjxIQ/viewform?usp=dialog
+  
 ## 📂 Output
 - coding.png (screenshot of coding problem)
 - Google Form link
