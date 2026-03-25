@@ -1,18 +1,22 @@
-# 📌 Task 5: Coding Practice
+# 📌 Task 5: Cybercrime Awareness Case Study & Prevention Guide
 
 ## 📌 Description
-In this task, I solved beginner-level coding problems on an online platform to improve programming skills.
+In this task, I created a case study on cybercrime (phishing) and developed a prevention guide to help users stay safe online.
 
 ## 🎯 Topics Covered
-- Basic logic building
-- Problem-solving
-- Algorithms
+- What is phishing
+- How cybercrime occurs (step-by-step)
+- Target audience
+- Consequences of cybercrime
+- Prevention tips
+- Reporting cybercrime (1930 & cybercrime.gov.in)
 
 ## 🛠️ Tool Used
-- HackerRank / CodeChef
+- Google Docs 
 
 ## 📂 Output
-- coding.png
+- case-study.pdf
+- prevention-guide.pdf
 
 ## 📊 Learning Outcome
-This task improved my coding skills and logical thinking ability.
+This task increased my awareness of cyber threats and taught me practical ways to prevent cybercrime and stay safe online.
